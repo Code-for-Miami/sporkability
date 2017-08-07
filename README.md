@@ -109,7 +109,7 @@ By default, include installation instructions in the README. Consider moving the
 
 ### Configuration
 
-- [ ] Try to follow the [12 factor app](https://12factor.net/codebase) methodology, at least the factors that apply to your app
+- [ ] Try to follow the [12 factor app](https://12factor.net/) methodology, at least the factors that apply to your app
 - [ ] Keep your city specific configuration in one file
     - For example, if your app has a map with some initial coordinates, store those initial coordinates in a config file instead of making them difficult to find.
 - [ ] Move other hard-coded values to a settings file.
